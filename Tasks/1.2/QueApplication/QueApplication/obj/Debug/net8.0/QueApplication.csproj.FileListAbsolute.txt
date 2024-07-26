@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\bin\Debug\net8.0\QueApplication.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\bin\Debug\net8.0\QueApplication.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\bin\Debug\net8.0\QueApplication.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\bin\Debug\net8.0\QueApplication.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\bin\Debug\net8.0\QueApplication.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\obj\Debug\net8.0\QueApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\obj\Debug\net8.0\QueApplication.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\obj\Debug\net8.0\QueApplication.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\obj\Debug\net8.0\QueApplication.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\obj\Debug\net8.0\QueApplication.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\obj\Debug\net8.0\refint\QueApplication.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\obj\Debug\net8.0\QueApplication.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\obj\Debug\net8.0\QueApplication.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\QueApplication\QueApplication\obj\Debug\net8.0\ref\QueApplication.dll

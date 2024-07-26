@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\bin\Debug\net8.0\1.2_helloWorld.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\bin\Debug\net8.0\1.2_helloWorld.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\bin\Debug\net8.0\1.2_helloWorld.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\bin\Debug\net8.0\1.2_helloWorld.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\bin\Debug\net8.0\1.2_helloWorld.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\obj\Debug\net8.0\1.2_helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\obj\Debug\net8.0\1.2_helloWorld.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\obj\Debug\net8.0\1.2_helloWorld.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\obj\Debug\net8.0\1.2_helloWorld.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\obj\Debug\net8.0\1.2_helloWorld.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\obj\Debug\net8.0\refint\1.2_helloWorld.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\obj\Debug\net8.0\1.2_helloWorld.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\obj\Debug\net8.0\1.2_helloWorld.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\1.2\1.2_helloWorld\1.2_helloWorld\obj\Debug\net8.0\ref\1.2_helloWorld.dll

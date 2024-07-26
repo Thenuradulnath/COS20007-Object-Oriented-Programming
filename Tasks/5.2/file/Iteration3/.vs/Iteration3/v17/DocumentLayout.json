@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\5.2\\file\\iteration3\\iteration3\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|solutionrelative:iteration3\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\5.2\\file\\iteration3\\iteration3\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|solutionrelative:iteration3\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0B83AF-5C36-4B9C-81FB-FAF56BCE67D2}|UTbag\\UTbag.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\5.2\\file\\iteration3\\utbag\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0B83AF-5C36-4B9C-81FB-FAF56BCE67D2}|UTbag\\UTbag.csproj|solutionrelative:utbag\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\5.2\\file\\iteration3\\iteration3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|solutionrelative:iteration3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\5.2\\file\\iteration3\\iteration3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|solutionrelative:iteration3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\5.2\\file\\iteration3\\iteration3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|solutionrelative:iteration3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\5.2\\file\\iteration3\\iteration3\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|solutionrelative:iteration3\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\5.2\\file\\iteration3\\iteration3\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|solutionrelative:iteration3\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\5.2\\file\\iteration3\\iteration3\\iteration3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04442A1B-0118-49AD-89A5-96C51AF71AC6}|Iteration3\\Iteration3.csproj|solutionrelative:iteration3\\iteration3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\UTbag\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UTbag\\UnitTest1.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\UTbag\\UnitTest1.cs",
+              "RelativeToolTip": "UTbag\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:19:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Bag.cs",
+              "RelativeDocumentMoniker": "Iteration3\\Bag.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Bag.cs",
+              "RelativeToolTip": "Iteration3\\Bag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:56:01.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Player.cs",
+              "RelativeDocumentMoniker": "Iteration3\\Player.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Player.cs",
+              "RelativeToolTip": "Iteration3\\Player.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:59:14.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\GameObject.cs",
+              "RelativeDocumentMoniker": "Iteration3\\GameObject.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\GameObject.cs",
+              "RelativeToolTip": "Iteration3\\GameObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:57:23.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Inventory.cs",
+              "RelativeDocumentMoniker": "Iteration3\\Inventory.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Inventory.cs",
+              "RelativeToolTip": "Iteration3\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:58:34.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Item.cs",
+              "RelativeDocumentMoniker": "Iteration3\\Item.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Item.cs",
+              "RelativeToolTip": "Iteration3\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:58:40.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "Iteration3\\IdentifiableObject.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\IdentifiableObject.cs",
+              "RelativeToolTip": "Iteration3\\IdentifiableObject.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:58:24.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Program.cs",
+              "RelativeDocumentMoniker": "Iteration3\\Program.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Program.cs",
+              "RelativeToolTip": "Iteration3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:54:11.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Iteration3.csproj",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Iteration3.csproj",
+              "RelativeDocumentMoniker": "Iteration3\\Iteration3.csproj",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\5.2\\file\\Iteration3\\Iteration3\\Iteration3.csproj",
+              "RelativeToolTip": "Iteration3\\Iteration3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T07:57:04.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

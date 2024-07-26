@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\bin\Debug\net8.0\Iteration3.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\bin\Debug\net8.0\Iteration3.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\bin\Debug\net8.0\Iteration3.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\bin\Debug\net8.0\Iteration3.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\bin\Debug\net8.0\Iteration3.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\obj\Debug\net8.0\Iteration3.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\obj\Debug\net8.0\Iteration3.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\obj\Debug\net8.0\Iteration3.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\obj\Debug\net8.0\Iteration3.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\obj\Debug\net8.0\Iteration3.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\obj\Debug\net8.0\refint\Iteration3.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\obj\Debug\net8.0\Iteration3.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\obj\Debug\net8.0\Iteration3.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\5.2\file\Iteration3\Iteration3\obj\Debug\net8.0\ref\Iteration3.dll

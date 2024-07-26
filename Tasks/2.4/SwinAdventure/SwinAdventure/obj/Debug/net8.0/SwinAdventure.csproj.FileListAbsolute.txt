@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\2.4\SwinAdventure\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll

@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\bin\Debug\net8.0\Iteration5.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\bin\Debug\net8.0\Iteration5.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\bin\Debug\net8.0\Iteration5.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\bin\Debug\net8.0\Iteration5.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\bin\Debug\net8.0\Iteration5.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\obj\Debug\net8.0\Iteration5.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\obj\Debug\net8.0\Iteration5.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\obj\Debug\net8.0\Iteration5.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\obj\Debug\net8.0\Iteration5.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\obj\Debug\net8.0\Iteration5.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\obj\Debug\net8.0\refint\Iteration5.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\obj\Debug\net8.0\Iteration5.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\obj\Debug\net8.0\Iteration5.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\7.1\Iteration5\Iteration5\obj\Debug\net8.0\ref\Iteration5.dll

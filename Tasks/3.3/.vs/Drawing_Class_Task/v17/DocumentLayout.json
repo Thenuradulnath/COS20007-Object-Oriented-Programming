@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\3.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{830815D8-4EF4-4DFC-B52C-6BF3BA5A4A70}|Drawing Class Task\\Drawing_Class_Task.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\3.3\\drawing class task\\shapeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830815D8-4EF4-4DFC-B52C-6BF3BA5A4A70}|Drawing Class Task\\Drawing_Class_Task.csproj|solutionrelative:drawing class task\\shapeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830815D8-4EF4-4DFC-B52C-6BF3BA5A4A70}|Drawing Class Task\\Drawing_Class_Task.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\3.3\\drawing class task\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830815D8-4EF4-4DFC-B52C-6BF3BA5A4A70}|Drawing Class Task\\Drawing_Class_Task.csproj|solutionrelative:drawing class task\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830815D8-4EF4-4DFC-B52C-6BF3BA5A4A70}|Drawing Class Task\\Drawing_Class_Task.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\3.3\\drawing class task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830815D8-4EF4-4DFC-B52C-6BF3BA5A4A70}|Drawing Class Task\\Drawing_Class_Task.csproj|solutionrelative:drawing class task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\3.3\\Drawing Class Task\\Program.cs",
+              "RelativeDocumentMoniker": "Drawing Class Task\\Program.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\3.3\\Drawing Class Task\\Program.cs",
+              "RelativeToolTip": "Drawing Class Task\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:43:14.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeClass.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\3.3\\Drawing Class Task\\ShapeClass.cs",
+              "RelativeDocumentMoniker": "Drawing Class Task\\ShapeClass.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\3.3\\Drawing Class Task\\ShapeClass.cs",
+              "RelativeToolTip": "Drawing Class Task\\ShapeClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:24:06.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\3.3\\Drawing Class Task\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing Class Task\\Drawing.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\3.3\\Drawing Class Task\\Drawing.cs",
+              "RelativeToolTip": "Drawing Class Task\\Drawing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:12:34.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\iteration4\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A44FA0-C0A3-4743-948A-C167EB0768D7}|Iteration4\\Iteration4.csproj|solutionrelative:iteration4\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB65D8FB-5977-4DCE-8E7D-4B33149B93FF}|UTLookCommand\\UTLookCommand.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\utlookcommand\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB65D8FB-5977-4DCE-8E7D-4B33149B93FF}|UTLookCommand\\UTLookCommand.csproj|solutionrelative:utlookcommand\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB65D8FB-5977-4DCE-8E7D-4B33149B93FF}|UTLookCommand\\UTLookCommand.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\6.1\\base\\iteration4\\utlookcommand\\utlookcommand.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB65D8FB-5977-4DCE-8E7D-4B33149B93FF}|UTLookCommand\\UTLookCommand.csproj|solutionrelative:utlookcommand\\utlookcommand.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Item.cs",
+              "RelativeDocumentMoniker": "Iteration4\\Item.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Item.cs",
+              "RelativeToolTip": "Iteration4\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:11:54.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LookCommand.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\LookCommand.cs",
+              "RelativeDocumentMoniker": "Iteration4\\LookCommand.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\LookCommand.cs",
+              "RelativeToolTip": "Iteration4\\LookCommand.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:14:58.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Player.cs",
+              "RelativeDocumentMoniker": "Iteration4\\Player.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Player.cs",
+              "RelativeToolTip": "Iteration4\\Player.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:11:57.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Program.cs",
+              "RelativeDocumentMoniker": "Iteration4\\Program.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Program.cs",
+              "RelativeToolTip": "Iteration4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:03:51.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Inventory.cs",
+              "RelativeDocumentMoniker": "Iteration4\\Inventory.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Inventory.cs",
+              "RelativeToolTip": "Iteration4\\Inventory.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:11:51.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IhaveInventory.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\IhaveInventory.cs",
+              "RelativeDocumentMoniker": "Iteration4\\IhaveInventory.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\IhaveInventory.cs",
+              "RelativeToolTip": "Iteration4\\IhaveInventory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:15:04.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "Iteration4\\IdentifiableObject.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\IdentifiableObject.cs",
+              "RelativeToolTip": "Iteration4\\IdentifiableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:11:44.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\GameObject.cs",
+              "RelativeDocumentMoniker": "Iteration4\\GameObject.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\GameObject.cs",
+              "RelativeToolTip": "Iteration4\\GameObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:11:37.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Command.cs",
+              "RelativeDocumentMoniker": "Iteration4\\Command.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Command.cs",
+              "RelativeToolTip": "Iteration4\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:14:15.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Bag.cs",
+              "RelativeDocumentMoniker": "Iteration4\\Bag.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\Iteration4\\Bag.cs",
+              "RelativeToolTip": "Iteration4\\Bag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:11:28.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\UTLookCommand\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UTLookCommand\\UnitTest1.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\UTLookCommand\\UnitTest1.cs",
+              "RelativeToolTip": "UTLookCommand\\UnitTest1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowBwAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:51:11.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UTLookCommand.csproj",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\UTLookCommand\\UTLookCommand.csproj",
+              "RelativeDocumentMoniker": "UTLookCommand\\UTLookCommand.csproj",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\6.1\\Base\\Iteration4\\UTLookCommand\\UTLookCommand.csproj",
+              "RelativeToolTip": "UTLookCommand\\UTLookCommand.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T21:18:51.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

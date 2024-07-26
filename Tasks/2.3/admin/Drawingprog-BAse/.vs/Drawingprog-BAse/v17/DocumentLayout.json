@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\2.3\\admin\\Drawingprog-BAse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{571C352D-2746-492C-B4D9-143D6F4D1D34}|Drawingprog-BAse\\Drawingprog-BAse.csproj|c:\\assignments\\oop\\tasks\\tasks\\pass\\2.3\\admin\\drawingprog-base\\drawingprog-base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C352D-2746-492C-B4D9-143D6F4D1D34}|Drawingprog-BAse\\Drawingprog-BAse.csproj|solutionrelative:drawingprog-base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\2.3\\admin\\Drawingprog-BAse\\Drawingprog-BAse\\Program.cs",
+              "RelativeDocumentMoniker": "Drawingprog-BAse\\Program.cs",
+              "ToolTip": "C:\\assignments\\OOP\\Tasks\\Tasks\\Pass\\2.3\\admin\\Drawingprog-BAse\\Drawingprog-BAse\\Program.cs",
+              "RelativeToolTip": "Drawingprog-BAse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:45:52.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\bin\Debug\net8.0\SemesterTest.exe
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\bin\Debug\net8.0\SemesterTest.deps.json
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\bin\Debug\net8.0\SemesterTest.runtimeconfig.json
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\bin\Debug\net8.0\SemesterTest.dll
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\bin\Debug\net8.0\SemesterTest.pdb
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\obj\Debug\net8.0\SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\obj\Debug\net8.0\SemesterTest.AssemblyInfoInputs.cache
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\obj\Debug\net8.0\SemesterTest.AssemblyInfo.cs
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\obj\Debug\net8.0\SemesterTest.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\obj\Debug\net8.0\SemesterTest.dll
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\obj\Debug\net8.0\refint\SemesterTest.dll
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\obj\Debug\net8.0\SemesterTest.pdb
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\obj\Debug\net8.0\SemesterTest.genruntimeconfig.cache
+C:\assignments\OOP\Test\SemesterTest\SemesterTest\obj\Debug\net8.0\ref\SemesterTest.dll

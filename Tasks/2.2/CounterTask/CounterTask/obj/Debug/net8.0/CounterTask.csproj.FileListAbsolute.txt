@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\obj\Debug\net8.0\refint\CounterTask.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\2.2\CounterTask\CounterTask\obj\Debug\net8.0\ref\CounterTask.dll

@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\bin\Debug\net8.0\_4_1_1.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\bin\Debug\net8.0\_4_1_1.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\bin\Debug\net8.0\_4_1_1.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\bin\Debug\net8.0\_4_1_1.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\bin\Debug\net8.0\_4_1_1.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\obj\Debug\net8.0\_4_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\obj\Debug\net8.0\_4_1_1.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\obj\Debug\net8.0\_4_1_1.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\obj\Debug\net8.0\_4_1_1.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\obj\Debug\net8.0\_4_1_1.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\obj\Debug\net8.0\refint\_4_1_1.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\obj\Debug\net8.0\_4_1_1.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\obj\Debug\net8.0\_4_1_1.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1.1\obj\Debug\net8.0\ref\_4_1_1.dll

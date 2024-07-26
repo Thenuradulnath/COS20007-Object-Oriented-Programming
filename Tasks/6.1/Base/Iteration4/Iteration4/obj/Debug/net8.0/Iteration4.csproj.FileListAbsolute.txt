@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\bin\Debug\net8.0\Iteration4.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\bin\Debug\net8.0\Iteration4.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\bin\Debug\net8.0\Iteration4.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\bin\Debug\net8.0\Iteration4.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\bin\Debug\net8.0\Iteration4.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\obj\Debug\net8.0\Iteration4.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\obj\Debug\net8.0\Iteration4.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\obj\Debug\net8.0\Iteration4.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\obj\Debug\net8.0\Iteration4.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\obj\Debug\net8.0\Iteration4.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\obj\Debug\net8.0\refint\Iteration4.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\obj\Debug\net8.0\Iteration4.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\obj\Debug\net8.0\Iteration4.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\6.1\Base\Iteration4\Iteration4\obj\Debug\net8.0\ref\Iteration4.dll

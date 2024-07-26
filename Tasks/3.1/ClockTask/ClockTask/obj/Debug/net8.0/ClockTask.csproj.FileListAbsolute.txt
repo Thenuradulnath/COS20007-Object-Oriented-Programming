@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\bin\Debug\net8.0\ClockTask.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\bin\Debug\net8.0\ClockTask.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\bin\Debug\net8.0\ClockTask.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\bin\Debug\net8.0\ClockTask.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\bin\Debug\net8.0\ClockTask.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\obj\Debug\net8.0\ClockTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\obj\Debug\net8.0\ClockTask.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\obj\Debug\net8.0\ClockTask.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\obj\Debug\net8.0\ClockTask.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\obj\Debug\net8.0\ClockTask.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\obj\Debug\net8.0\refint\ClockTask.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\obj\Debug\net8.0\ClockTask.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\obj\Debug\net8.0\ClockTask.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\3.1\ClockTask\ClockTask\obj\Debug\net8.0\ref\ClockTask.dll

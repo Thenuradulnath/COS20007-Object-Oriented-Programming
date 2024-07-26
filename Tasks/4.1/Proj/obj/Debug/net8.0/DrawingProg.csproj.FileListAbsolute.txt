@@ -1,0 +1,14 @@
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\bin\Debug\net8.0\DrawingProg.exe
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\bin\Debug\net8.0\DrawingProg.deps.json
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\bin\Debug\net8.0\DrawingProg.runtimeconfig.json
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\bin\Debug\net8.0\DrawingProg.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\bin\Debug\net8.0\DrawingProg.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\obj\Debug\net8.0\DrawingProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\obj\Debug\net8.0\DrawingProg.AssemblyInfoInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\obj\Debug\net8.0\DrawingProg.AssemblyInfo.cs
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\obj\Debug\net8.0\DrawingProg.csproj.CoreCompileInputs.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\obj\Debug\net8.0\DrawingProg.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\obj\Debug\net8.0\refint\DrawingProg.dll
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\obj\Debug\net8.0\DrawingProg.pdb
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\obj\Debug\net8.0\DrawingProg.genruntimeconfig.cache
+C:\assignments\OOP\Tasks\Tasks\Pass\4.1\Proj\obj\Debug\net8.0\ref\DrawingProg.dll
